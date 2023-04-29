@@ -1,0 +1,8 @@
+nav{
+background: var(--clr-white);
+display: grid;
+box-shadow: var(--dark-shadow);
+align-items: center;
+height: 3rem;
+
+}
