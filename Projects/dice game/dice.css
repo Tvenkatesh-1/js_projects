@@ -1,0 +1,35 @@
+#container{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+button{
+    border-radius: 5px;
+    background-color: rgb(158, 220, 220);
+    padding: 10px 24px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+button:hover{
+    background-color: blue;
+}
+button:active{
+    background-color: cadetblue;
+}
+input{
+    font-size: 1.5rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#diceresult{
+    margin: 15px;
+}
+
+#diceimage img{
+width: 150px;
+}
